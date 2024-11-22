@@ -4,6 +4,11 @@
 
 </div>
 
+<div align="center">
+  <img src="C:\Users\jimin\OneDrive\바탕 화면\giii.webp" alt="Welcome to My GitHub Banner" />
+</div>
+
+
 ## 👩‍💻 About Me
 
 I’m a passionate student at Chung-Ang University. I'm currently interested in creating my own videos and learning new editing tools. I also enjoy music, so I have a dream of creating a music video.
