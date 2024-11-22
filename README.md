@@ -1,6 +1,66 @@
 ## Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJimin-619&count_bg=%2379C83D&title_bg=%23525253&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+## 👩‍💻 About Me
+
+I’m a passionate student at Chung-Ang University. I'm currently interested in creating my own videos and learning new editing tools. I also enjoy music, so I have a dream of creating a music video.
+
+## 🌟 Skills and Tools
+
+<div align="center">
+
+Tools
+- Adobe Premiere Pro,  Adobe Photoshop, Adobe After Effects, Adobe Illustrator
+
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+Languages
+- Python, C++
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</div>
+
+</div>
+
+## 🛠️ Projects
+
+Planning!
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimin-619&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin-619&layout=compact&theme=radical)
+
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/wlals030619)](https://blog.naver.com/wlals030619)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@%EC%B5%9C%EC%A7%80%EB%AF%BC-t5g)](https://www.youtube.com/@%EC%B5%9C%EC%A7%80%EB%AF%BC-t5g)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wlals619/)](https://www.instagram.com/wlals619/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jimin030619@gmail.com)](mailto:jimin030619@gmail.com)
+
+</div>
+
+---
+
+Feel free to explore my repositories and connect with me for collaboration opportunities or just to say hi!
+
 <!--
 **Jimin-619/Jimin-619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
