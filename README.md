@@ -44,6 +44,8 @@ Planning!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin-619&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jimin-619&theme=radical)
+
 </div>
 
 ## 🌐 Let's Connect
