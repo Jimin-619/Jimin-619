@@ -2,41 +2,36 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJimin-619&count_bg=%2379C83D&title_bg=%23525253&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+---
 
 ## 👩‍💻 About Me
 
 I’m a passionate student at Chung-Ang University. I'm currently interested in creating my own videos and learning new editing tools. I also enjoy music, so I have a dream of creating a music video.
 
-## 🌟 Skills and Tools
+---
+
+## ✨ Skills and Tools
 
 <div align="center">
-
-Tools
-- Adobe Premiere Pro,  Adobe Photoshop, Adobe After Effects, Adobe Illustrator
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-
-Languages
-- Python, C++
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</div>
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
+
+---
 
 ## 🛠️ Projects
 
 Planning!
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
-
-## 📈 GitHub Stats
+## 🔁 GitHub Stats
 
 <div align="center">
 
@@ -47,6 +42,8 @@ Planning!
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jimin-619&theme=radical)
 
 </div>
+
+---
 
 ## 🌐 Let's Connect
 
