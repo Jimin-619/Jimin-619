@@ -15,6 +15,32 @@ I’m a passionate student at Chung-Ang University. I'm currently interested in 
 
 ---
 
+---
+
+## 🎶 Favorite Lyrics
+
+*"This, this is our new song, just like the last one,  
+A total waste of time"*  
+– *Radiohead, My Iron Lung*
+
+---
+
+## 🎧 My Playlist
+
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/플레이리스트ID)
+
+1. [My Iron Lung - Radiohead](https://youtu.be/t-2TzslR6aQ)
+2. [Lost Stars - Adam Levine](https://youtu.be/92eUwYXkTlY)
+3. [Perfect - One Direction](https://youtu.be/Ho32Oh6b4jc)
+
+---
+
+## 🎵 My Iron Lung - Music Video
+[![My Iron Lung](https://img.youtube.com/vi/t-2TzslR6aQ/0.jpg)](https://youtu.be/t-2TzslR6aQ "Play on YouTube")  
+*Click to watch the music video of My Iron Lung!*
+
+---
+
 ## ✨ Skills and Tools
 
 <div align="center">
