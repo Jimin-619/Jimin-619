@@ -17,6 +17,8 @@ I’m a passionate student at Chung-Ang University. I'm currently interested in 
 
 ## 🎶 Favorite Lyrics
 
+![image](https://github.com/user-attachments/assets/6d5e748b-a26e-4498-8411-24e9b9e577ac)
+  
 *"This, this is our new song, just like the last one,  
 A total waste of time"*  
 – *Radiohead, My Iron Lung*
