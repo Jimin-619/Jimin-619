@@ -27,10 +27,6 @@ A total waste of time"*
 
 ## 🎧 My Playlist
 
----
-
-## 🎧 My Playlist
-
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 1. [My Iron Lung - Radiohead](https://open.spotify.com/track/0mls8VVNQu8is8rc6dRnU5)
@@ -39,7 +35,7 @@ A total waste of time"*
 
 ---
 
-## 🎵 Music Videos and Albums
+## 🎵 Music Videos
 
 ### My Iron Lung - Music Video
 [![My Iron Lung](https://img.youtube.com/vi/pRU-6vaKaf4/0.jpg)](https://youtu.be/pRU-6vaKaf4?si=z7XO02EhS8eivziD "Play on YouTube")  
