@@ -15,8 +15,6 @@ I’m a passionate student at Chung-Ang University. I'm currently interested in 
 
 ---
 
----
-
 ## 🎶 Favorite Lyrics
 
 *"This, this is our new song, just like the last one,  
