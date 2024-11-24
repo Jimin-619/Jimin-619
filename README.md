@@ -27,10 +27,10 @@ A total waste of time"*
 
 ## 🎧 My Playlist
 
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/플레이리스트-ID)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 1. [My Iron Lung - Radiohead](https://open.spotify.com/track/0mls8VVNQu8is8rc6dRnU5)
-2. [Lost Stars - Adam Levine](https://open.spotify.com/track/2RiA9BWFl5iMHSZzDpj1qh)
+2. [Lost Stars - Adam Levine](https://open.spotify.com/track/2RGT1qUP7ZR3dczlJFpYd3)
 3. [Perfect - One Direction](https://open.spotify.com/track/3RAhufL8fMf2XGpMw5xE9m)
 
 ---
