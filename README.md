@@ -27,16 +27,22 @@ A total waste of time"*
 
 ## 🎧 My Playlist
 
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/플레이리스트ID)
+---
 
-1. [My Iron Lung - Radiohead](https://youtu.be/t-2TzslR6aQ)
-2. [Lost Stars - Adam Levine](https://youtu.be/92eUwYXkTlY)
-3. [Perfect - One Direction](https://youtu.be/Ho32Oh6b4jc)
+## 🎧 My Playlist
+
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+
+1. [My Iron Lung - Radiohead](https://open.spotify.com/track/0mls8VVNQu8is8rc6dRnU5)
+2. [Lost Stars - Adam Levine](https://open.spotify.com/track/6cT5n1MHP7fK2TNzL7FCIq)
+3. [Perfect - One Direction](https://open.spotify.com/track/3RAhufL8fMf2XGpMw5xE9m)
 
 ---
 
-## 🎵 My Iron Lung - Music Video
-[![My Iron Lung](https://img.youtube.com/vi/t-2TzslR6aQ/0.jpg)](https://youtu.be/t-2TzslR6aQ "Play on YouTube")  
+## 🎵 Music Videos and Albums
+
+### My Iron Lung - Music Video
+[![My Iron Lung](https://img.youtube.com/vi/pRU-6vaKaf4/0.jpg)](https://youtu.be/pRU-6vaKaf4?si=z7XO02EhS8eivziD "Play on YouTube")  
 *Click to watch the music video of My Iron Lung!*
 
 ---
